@@ -20,11 +20,11 @@ for (let i = 0; i < ownerlist.length; i++) {
 }
 //
 global.botname = process.env.BOTNAME || 'ULTRA-MD';
-global.botNumber = '923051391007' //replace your bot number here
+global.botNumber = '923286835876' //replace your bot number here
 
 global.mods = []
 global.prems = []
-global.allowed = ['923286835876', '923051391007']
+global.allowed = ['923286835876', '923286835876']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
